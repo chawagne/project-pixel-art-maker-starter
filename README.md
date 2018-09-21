@@ -1,5 +1,7 @@
 # Pixel Art Maker Project
 
+WORK IN PROGRESS
+
 ## Table of Contents
 
 * [Instructions](#instructions)
